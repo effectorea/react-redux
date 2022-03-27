@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-cards/static/css/main.eb1c2602.css",
+    "main.js": "/react-cards/static/js/main.c5ba0228.js",
+    "static/js/787.7345901b.chunk.js": "/react-cards/static/js/787.7345901b.chunk.js",
+    "static/media/Inter-Black.woff": "/react-cards/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/react-cards/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Black.woff2": "/react-cards/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/react-cards/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/Intermedium.woff": "/react-cards/static/media/Intermedium.6f2aebd6be1db7b90456.woff",
+    "static/media/filter.png": "/react-cards/static/media/filter.96103831b69a51dd9fcc.png",
+    "static/media/Intermedium.woff2": "/react-cards/static/media/Intermedium.5ca7ca726c271e6284a7.woff2",
+    "static/media/Vector_svg_heart.svg": "/react-cards/static/media/Vector_svg_heart.1ad06e85f169668a1f36.svg",
+    "index.html": "/react-cards/index.html",
+    "static/media/Trash.svg": "/react-cards/static/media/Trash.e3c42771bff3aaa52f76.svg",
+    "static/media/black_heart.svg": "/react-cards/static/media/black_heart.dd6a61e81552be95f4b7.svg",
+    "main.eb1c2602.css.map": "/react-cards/static/css/main.eb1c2602.css.map",
+    "main.c5ba0228.js.map": "/react-cards/static/js/main.c5ba0228.js.map",
+    "787.7345901b.chunk.js.map": "/react-cards/static/js/787.7345901b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb1c2602.css",
+    "static/js/main.c5ba0228.js"
+  ]
+}
