@@ -1,0 +1,25 @@
+.profile__filter {
+    border: none;
+    box-sizing: border-box;
+    border-radius: 40px;
+    width: 100px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url(../../../images/filter.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+    cursor: pointer;
+    transition: .3s opacity;
+    flex-grow: 0;
+}
+
+.profile__filter:hover {
+    opacity: 0.6;
+}
+@media screen and (max-width: 885px) {
+    .profile__filter {
+        width: 150px;
+        margin-left: 50px;
+    }
+}
