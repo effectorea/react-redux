@@ -19,4 +19,4 @@
 9. Использовал библиотеку Redux как стейт менеджер, создавая хранилище и загружая все полученные с сервера карточки в store.
 
 
-[Ссылка на проект:] (https://effectorea.github.io/react-cards/index.html).
+[Ссылка на проект:] (https://effectorea.github.io/react-redux/index.html).
