@@ -1,6 +1,6 @@
 {
-  "name": "react-cards",
-  "homepage": "https://effectorea.github.io/react-cards",
+  "name": "react-redux",
+  "homepage": "https://effectorea.github.io/react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
